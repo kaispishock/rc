@@ -1,0 +1,20 @@
+## options
+
+set autoindent
+set backup
+set backupdir ~/backup
+set constantshow
+set breaklonglines
+set linenumbers
+set positionlog
+set locking
+set stateflags
+set wordbounds
+set zap
+set tabsize 4
+set tabstospaces
+set historylog
+set minibar
+set nohelp
+set numbercolor bold,normal
+set boldtext
